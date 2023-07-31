@@ -37,4 +37,6 @@ CI-CE - Integer Components - Controled Enviroment
 CI-EE - Integer Components - External Enviroment
 CD-CE - Defective Components - Controled Enviroment
 
+![ss](https://github.com/andremarotta/seai-dataset/assets/55545244/d18fdc09-d72f-43c5-a1e3-42142be3dac4)
+
 
