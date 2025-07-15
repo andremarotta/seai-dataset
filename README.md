@@ -3,19 +3,21 @@
 This page is created with the purpose of hosting the SEAI database.
 SEAI is (Experimental Data Aquisition system) used to evaluate 15kv OPDN (Overhead Power Distribution Networks) classification, detection and segmentation systems.  
 
-## Classes:
+## Description:
+
+Types:
 I1-IPL-Polimeric Insulator
 I2-IPN-Pin Ceramic Insulator
 I3-IVD- Glass Insulator
 I4-ISB- ceramic Insulator
 
-## Image Groups:
+Groups:
 CI-CE - Integer Components - Controled Environment
 CI-EE - Integer Components - External Environment
 CD-CE - Defective Components - Controled Environment
 CD-EE - Defective Components - External Evironment
 
-## Description:
+
 ![s](https://github.com/andremarotta/seai-dataset/assets/55545244/3bb80d01-53dc-4506-8677-5d84ac7c9404)
 
 ## Datasets:
@@ -24,10 +26,10 @@ DATASET_RDD: dataset used for classification
 DATASET_DET: dataset used for detection
 DATASET_SEG: dataset used for segmentation
 
-Download:
+##  Download:
 https://mail.google.com/mail/u/0/#inbox
 
-Sitation:
+##  Sitation:
 @article{prates2019insulator,
   title={Insulator visual non-conformity detection in overhead power distribution lines using deep learning},
   author={Marotta, Andr{\'e} P and Simas Filho, Eduardo F and Farias, Paulo Cesar S},
