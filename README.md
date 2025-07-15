@@ -1,6 +1,6 @@
 # SEAI-dataset
-![CII Best Practices](https://img.shields.io/cii/:metric/:projectId)
-https://img.shields.io/badge/version-1.2.3-blue
+![GitHub License](https://img.shields.io/github/license/andremarotta/seai-dataset)
+
 
 This page is created with the purpose of hosting the SEAI database.
 SEAI is (Experimental Data Aquisition system) used to evaluate 15kv OPDN (Overhead Power Distribution Networks) classification, detection and segmentation systems.  
