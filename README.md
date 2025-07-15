@@ -30,8 +30,9 @@ DATASET_SEG: dataset used for segmentation
 https://mail.google.com/mail/u/0/#inbox
 
 ##  Sitation:
-@article{prates2019insulator,
-  title={Insulator visual non-conformity detection in overhead power distribution lines using deep learning},
+@article{marotta2025insulator,
+  title={Insulator Detection in Aerial Images of in Power Distribution Lines using
+Explainable Deep Learning},
   author={Marotta, Andr{\'e} P and Simas Filho, Eduardo F and Farias, Paulo Cesar S},
   journal={Computers \& Electrical Engineering},
   volume={XX},
