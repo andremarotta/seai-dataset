@@ -21,7 +21,7 @@ Groups:
 * CD-EE - Defective Components - External Evironment
 
 
-![s](https://github.com/andremarotta/seai-dataset/assets/55545244/3bb80d01-53dc-4506-8677-5d84ac7c9404)
+![s] link (https://github.com/andremarotta/seai-dataset/assets/55545244/3bb80d01-53dc-4506-8677-5d84ac7c9404)
 
 ## Datasets:
 * DATASET_SEAI: Initial classic dataset, with angle control 
