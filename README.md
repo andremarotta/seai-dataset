@@ -1,4 +1,4 @@
-# seai-dataset
+# SEAI-dataset
 
 This page is created with the purpose of hosting the SEAI database.
 SEAI is (Experimental Data Aquisition system) used to evaluate 15kv OPDN (Overhead Power Distribution Networks) classification, detection and segmentation systems.  
@@ -30,16 +30,15 @@ DATASET_SEG: dataset used for segmentation
 https://mail.google.com/mail/u/0/#inbox
 
 ##  Sitation:
-@article{marotta2025insulator,
-  title={Insulator Detection in Aerial Images of in Power Distribution Lines using
-Explainable Deep Learning},
-  author={Marotta, Andr{\'e} P and Simas Filho, Eduardo F and Farias, Paulo Cesar S},
-  journal={Computers \& Electrical Engineering},
-  volume={XX},
-  pages={xxx--xxx},
-  year={2025},
-  publisher={Elsevier}
-}
+* @article{marotta2025insulator,
+* title={Insulator Detection in Aerial Images of in Power Distribution Lines using Explainable Deep Learning},
+* author={Marotta, Andr{\'e} P and Simas Filho, Eduardo F and Farias, Paulo Cesar S},
+* journal={Computers \& Electrical Engineering},
+* volume={XX},
+* pages={xxx--xxx},
+* year={2025},
+* publisher={Elsevier}
+* }
 
 
 
