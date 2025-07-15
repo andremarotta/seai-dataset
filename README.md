@@ -1,42 +1,41 @@
 # seai-dataset
 
 This page is created with the purpose of hosting the SEAI database.
-SEAI is (Experimental Data Aquisition system) used to evaluate 15kv OPDN (Overhead Power Distribution Networks) classification and detection systems.  
+SEAI is (Experimental Data Aquisition system) used to evaluate 15kv OPDN (Overhead Power Distribution Networks) classification, detection and segmentation systems.  
 
-SEAI Dataset
-
-
-1. SEAI - Angle Tilt Dataset
-
-
-2. SEAI - Std - Standard Dataset
-
-Classes
+Classes:
 I1-IPL-Polimeric Insulator
 I2-IPN-Pin Ceramic Insulator
 I3-IVD- Glass Insulator
-I4-ISB- Baiana Skirt Insulator
+I4-ISB- ceramic Insulator
 
-Image Groups
-CI-CE - Integer Components - Controled Enviroment
-CI-EE - Integer Components - External Enviroment
-CD-CE - Defective Components - Controled Enviroment
+Image Groups:
+CI-CE - Integer Components - Controled Environment
+CI-EE - Integer Components - External Environment
+CD-CE - Defective Components - Controled Environment
+CD-EE - Defective Components - External Evironment
 
 ![s](https://github.com/andremarotta/seai-dataset/assets/55545244/3bb80d01-53dc-4506-8677-5d84ac7c9404)
 
-3. SEAI_DEC - Detection Dataset
+Datasets:
+DATASET_SEAI: Initial classic dataset, with angle control 
+DATASET_RDD: dataset used for classification 
+DATASET_DET: dataset used for detection
+DATASET_SEG: dataset used for segmentation
 
-Classes
-I1-IPL-Polimeric Insulator
-I2-IPN-Pin Ceramic Insulator
-I3-IVD- Glass Insulator
-I4-ISB- Baiana Skirt Insulator
+Download:
+https://mail.google.com/mail/u/0/#inbox
 
-Image Groups
-CI-CE - Integer Components - Controled Enviroment
-CI-EE - Integer Components - External Enviroment
-CD-CE - Defective Components - Controled Enviroment
+Sitation:
+@article{prates2019insulator,
+  title={Insulator visual non-conformity detection in overhead power distribution lines using deep learning},
+  author={Marotta, Andr{\'e} P and Simas Filho, Eduardo F and Farias, Paulo Cesar S},
+  journal={Computers \& Electrical Engineering},
+  volume={XX},
+  pages={xxx--xxx},
+  year={2025},
+  publisher={Elsevier}
+}
 
-![ss](https://github.com/andremarotta/seai-dataset/assets/55545244/d18fdc09-d72f-43c5-a1e3-42142be3dac4)
 
 
