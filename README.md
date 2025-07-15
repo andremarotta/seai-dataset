@@ -30,7 +30,7 @@ Groups:
 * DATASET_SEG: dataset used for segmentation
 
 ##  Download:
-* https://mail.google.com/mail/u/0/#inbox
+* [https://mail.google.com/mail/u/0/#inbox](https://drive.google.com/drive/folders/1YasYiPk15PW2-EpIDvxXgt1Bh6lJTuoh?usp=drive_link)
 
 ##  Sitation:
 * @article{marotta2025insulator,
