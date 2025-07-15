@@ -35,7 +35,7 @@ Groups:
 ##  Sitation:
 * @article{marotta2025insulator,
 * title={Insulator Detection in Aerial Images of in Power Distribution Lines using Explainable Deep Learning},
-* author={Marotta, Andr{\'e} P and Simas Filho, Eduardo F and Farias, Paulo Cesar S},
+* author={Marotta, Andr{\'e} P and Simas Filho, Eduardo F and Farias, Paulo Cesar de A},
 * journal={Computers \& Electrical Engineering},
 * volume={XX},
 * pages={xxx--xxx},
