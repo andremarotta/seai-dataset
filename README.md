@@ -6,28 +6,28 @@ SEAI is (Experimental Data Aquisition system) used to evaluate 15kv OPDN (Overhe
 ## Description:
 
 Types:
-I1-IPL-Polimeric Insulator
-I2-IPN-Pin Ceramic Insulator
-I3-IVD- Glass Insulator
-I4-ISB- ceramic Insulator
+* I1-IPL-Polimeric Insulator
+* I2-IPN-Pin Ceramic Insulator
+* I3-IVD- Glass Insulator
+* I4-ISB- ceramic Insulator
 
 Groups:
-CI-CE - Integer Components - Controled Environment
-CI-EE - Integer Components - External Environment
-CD-CE - Defective Components - Controled Environment
-CD-EE - Defective Components - External Evironment
+* CI-CE - Integer Components - Controled Environment
+* CI-EE - Integer Components - External Environment
+* CD-CE - Defective Components - Controled Environment
+* CD-EE - Defective Components - External Evironment
 
 
 ![s](https://github.com/andremarotta/seai-dataset/assets/55545244/3bb80d01-53dc-4506-8677-5d84ac7c9404)
 
 ## Datasets:
-DATASET_SEAI: Initial classic dataset, with angle control 
-DATASET_RDD: dataset used for classification 
-DATASET_DET: dataset used for detection
-DATASET_SEG: dataset used for segmentation
+* DATASET_SEAI: Initial classic dataset, with angle control 
+* DATASET_RDD: dataset used for classification 
+* DATASET_DET: dataset used for detection
+* DATASET_SEG: dataset used for segmentation
 
 ##  Download:
-https://mail.google.com/mail/u/0/#inbox
+* https://mail.google.com/mail/u/0/#inbox
 
 ##  Sitation:
 * @article{marotta2025insulator,
