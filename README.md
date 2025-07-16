@@ -20,6 +20,8 @@ Groups:
 * CD-CE - Defective Components - Controled Environment
 * CD-EE - Defective Components - External Evironment
 
+![Image](https://github.com/user-attachments/assets/3715e584-a668-4902-badb-4441ba79e40a)
+
 ## Datasets:
 * DATASET_SEAI: Initial classic dataset, with angle control 
 * DATASET_RDD: dataset used for classification 
